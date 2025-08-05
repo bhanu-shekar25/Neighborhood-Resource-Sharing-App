@@ -14,23 +14,24 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Z.ai Code Scaffold - AI-Powered Development",
-  description: "Modern Next.js scaffold optimized for AI-powered development with Z.ai. Built with TypeScript, Tailwind CSS, and shadcn/ui.",
-  keywords: ["Z.ai", "Next.js", "TypeScript", "Tailwind CSS", "shadcn/ui", "AI development", "React"],
-  authors: [{ name: "Z.ai Team" }],
+  title: "Neighborhood Resource Sharing App",
+  description: "A community platform to share and borrow resources locally.",
+  keywords: ["community", "sharing", "Next.js", "React", "Tailwind", "resources"],
+  authors: [{ name: "Bhanu Shekar" }],
   openGraph: {
-    title: "Z.ai Code Scaffold",
-    description: "AI-powered development with modern React stack",
-    url: "https://chat.z.ai",
-    siteName: "Z.ai",
+    title: "Neighborhood Resource Sharing App",
+    description: "Connect with neighbors to share and borrow resources.",
+    url: "https://neighborhood-resource-sharing-app.netlify.app/",
+    siteName: "NeighborhoodShare",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Z.ai Code Scaffold",
-    description: "AI-powered development with modern React stack",
+    title: "Neighborhood Resource Sharing App",
+    description: "Connect with neighbors to share and borrow resources.",
   },
 };
+
 
 export default function RootLayout({
   children,
