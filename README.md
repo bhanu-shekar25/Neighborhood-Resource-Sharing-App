@@ -14,7 +14,7 @@ A modern, fully-featured web application that enables community members to share
 
 ## 🚀 Live Demo
 
-> Currently running locally at: [http://localhost:3000](http://localhost:3000)
+> Currently running : https://neighborhood-resource-sharing-app.netlify.app/
 
 ---
 
