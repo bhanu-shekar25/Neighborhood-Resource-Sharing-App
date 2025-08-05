@@ -1,6 +1,4 @@
-Here’s a **GitHub README.md** for your **Neighborhood Resource Sharing App**. It’s structured professionally and clearly showcases your work, with badges and markdown formatting that make it visually appealing and informative:
 
----
 
 # 🏘️ Neighborhood Resource Sharing App
 
